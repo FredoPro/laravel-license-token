@@ -2,7 +2,7 @@
     "name": "fredopro/laravel-license-token",
     "description": "Token license generation",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Fredocambundo\\LaravelLicenseToken\\": "src/"
