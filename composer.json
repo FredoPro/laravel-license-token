@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Fredocambundo\\LaravelLicenseToken\\": "src/"
+            "FrrdoPro\\LaravelLicenseToken\\": "src/"
         }
     },
     "authors": [
