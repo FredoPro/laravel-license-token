@@ -1,0 +1,2 @@
+# laravel-license-token
+license
