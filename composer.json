@@ -1,0 +1,25 @@
+{
+    "name": "fredopro/laravel-license-token",
+    "description": "Token license generation",
+    "type": "library",
+    "license": "MIT License",
+    "autoload": {
+        "psr-4": {
+            "Fredocambundo\\LaravelLicenseToken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "illuminate/support": "^5.8"
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php artisan vendor:publish --tag=laravel-license-token"
+        ]
+    }
+}
